@@ -1,16 +1,16 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.3'
 DESCRIPTION = 'A conversion package'
 LONG_DESCRIPTION = 'A package that makes it easy to convert values between several units of measurement'
 
 setup(
-    name="convrsn", 
+    name="yreguig", 
     version=VERSION,
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
-    author="Stanley Ndagi",
-    author_email="ndagis@gmail.com",
+    author="Yassine REGUIG",
+    author_email="yassine.reguig@expleogroup.com",
     license='MIT',
     packages=find_packages(),
     install_requires=[],
